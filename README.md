@@ -12,5 +12,6 @@ Useful links for research students at the [Wellcome Centre for Human Neuroimagin
 * [Methods for Dummies](https://www.fil.ion.ucl.ac.uk/mfd/). Learn about data analysis methods for MRI, MEG etc.
 * [SPM Courses](https://www.fil.ion.ucl.ac.uk/spm/course/). UCL students can sit in on the lectures.
 
-## (If Life Becomes Difficult)[Support.md]
+## If Life Becomes Difficult
+* [Student Support and Wellbeing](Support.md)
 
