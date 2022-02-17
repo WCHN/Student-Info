@@ -1,5 +1,5 @@
 # Information for Research Students
-Useful links for research students at the Wellcome Centre for Human Neuroimaging.
+Useful links for research students at the [Wellcome Centre for Human Neuroimaging](https://www.fil.ion.ucl.ac.uk/).
 
 * [Research Degrees FAQ](https://www.ucl.ac.uk/ion/research-degree-faqs). How procedures at the Institute of Neurology deviate from the official UCL guidelines.
 * [Workshops](Workshops.md). Upcoming workshops for research students.
