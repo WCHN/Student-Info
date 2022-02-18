@@ -12,6 +12,7 @@ These are a few textbooks that may be useful to research students at the Wellcom
 
 ## Deep Learning
 * [**Deep Learning**](https://www.deeplearningbook.org/) [(unofficial link)](https://github.com/janishar/mit-deep-learning-book-pdf). Ian Goodfellow, Yoshua Bengio & Aaron Courville. MIT Press (2016).
+* [**Dive Into Deep Learning** (pdf)](https://arxiv.org/ftp/arxiv/papers/2106/2106.11342.pdf). Aston Zhang, Zachary C. Lipton, Mu Li, & Alexander J Smola. arXiv preprint arXiv:2106.11342 (2021).
 
 ## Other
 * [**The Matrix Cookbook** (pdf)](https://www.cs.toronto.edu/~bonner/courses/2018s/csc338/matrix_cookbook.pdf). Kaare Brandt Petersen, Michael Syskind Pedersen & others. Technical University of Denmark 7(15) (2008).
