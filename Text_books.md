@@ -8,7 +8,7 @@ These are a few textbooks that may be useful to research students at the Wellcom
 * [**Pattern Recognition and Machine Learning** (pdf)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). Christopher M Bishop. Springer (2006).
 * [**Probabilistic Machine Learning: An Introduction** (pdf)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf). Kevin P. Murphy. MIT Press (2022).
 * [**Probability Theory: The Logic of Science** (pdf)](https://bayes.wustl.edu/etj/prob/book.pdf). Edwin T. Jaynes. Cambridge University Press (2003).
-* [**Gaussian Processes for Machine Learning**](http://www.gaussianprocess.org/gpml/chapters). Christopher K. Williams & Carl Edward Rasmussen. MIT press (2006).
+* [**Gaussian Processes for Machine Learning** (pdf)](http://www.gaussianprocess.org/gpml/chapters/RW.pdf). Christopher K. Williams & Carl Edward Rasmussen. MIT press (2006).
 
 ## Deep Learning
 * [**Deep Learning**](https://www.deeplearningbook.org/) [(unofficial link)](https://github.com/janishar/mit-deep-learning-book-pdf). Ian Goodfellow, Yoshua Bengio & Aaron Courville. MIT Press (2016).
