@@ -12,6 +12,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 * IoN [**Research Degrees FAQ**](https://www.ucl.ac.uk/ion/research-degree-faqs). Some procedures are specific to the Institute of Neurology (e.g. upgrades in IoN require two examiners, whereas official UCL guidelines require one examiner).
 * IoN [**Thesis Committee Guidelines**](https://www.ucl.ac.uk/ion/sites/ion/files/ion_tc_guidelines_july_2021_0.pdf). All newly enrolled students at the IoN are expected to form a thesis committee.
+    - [**Forms** (MS Word)](https://www.ucl.ac.uk/ion/sites/ion/files/ion_tc_guidelines_july_2021_0.docx)
 * IoN [**Education Team**](https://www.ucl.ac.uk/ion/study/education-team-contacts).
     - **Departmental Graduate Tutor** for the UCL Queen Square Institute of Neurology is [Steve Kennerley](https://iris.ucl.ac.uk/iris/browse/profile?upi=SWKEN38).
     - **Research department graduate tutor** for Imaging Neuroscience is [John Ashburner](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTASH57).
