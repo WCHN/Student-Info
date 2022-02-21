@@ -32,6 +32,6 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 * [**Student Support and Wellbeing**](Support.md)
 * [**UCL Covid-19 Information**](https://www.ucl.ac.uk/coronavirus/)
-* [**Storm Eunice**](https://www.trees.org.uk/ARB-Approved-Contractor-Directory) (temporary addition for 18/02/22).
+
 
 ---
