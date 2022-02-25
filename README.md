@@ -36,4 +36,9 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 * [**UCL Covid-19 Information**](https://www.ucl.ac.uk/coronavirus/)
 
 
+## Next steps
+
+* [**Funding Opportunities**](Funding.md). More to come...
+
+
 ---
