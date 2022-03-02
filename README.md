@@ -33,8 +33,8 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 ## If Life Becomes Difficult
 
 * [**Student Support and Wellbeing**](Support.md)
-* [**UCL Covid-19 Information**](https://www.ucl.ac.uk/coronavirus/)
-
+* [**Covid-19**](https://www.ucl.ac.uk/coronavirus/). UCL information about Covid-19.
+* [**Ukraine**](https://www.ucl.ac.uk/news/2022/feb/support-staff-and-students-affected-war-ukraine?utm_source=UCL%20%28Internal%20Communications%29&utm_medium=email&utm_campaign=13033984_Provost%20all%20staff%20-%20Ukraine%201%20March%202022&utm_content=current%20statement%20outlining%20guidance%20and%20support%20here). UCL support for staff and students affected by the war in Ukraine.
 
 ## Next steps
 
