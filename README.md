@@ -29,7 +29,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 * [**SPM Courses**](https://www.fil.ion.ucl.ac.uk/spm/course/). UCL students can sit in on the lectures.
 * [**Programming**](Programming.md). Guides for various programming languages.
 * [**Reproducible Research**](Reproducible_Research.md). More to come...
-
+* [**Funding for Conferences, Training etc**](RD_Funding.md)
 
 ## If Life Becomes Difficult
 
