@@ -22,6 +22,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 ## Researcher Development
 
+* [**Faculty of Brain Sciences PGR Student Conference**](https://www.ucl.ac.uk/ion/news/2021/jun/1st-faculty-brain-sciences-pgr-student-conference-2021) 27th May 2021.
 * [**Workshops**](Workshops.md). Upcoming workshops for research students.
 * [**Textbooks**](Textbooks.md). A selection of textbooks that may be useful for research students.
 * [**Methods for Dummies**](https://www.fil.ion.ucl.ac.uk/mfd/). Learn about data analysis methods for MRI, MEG etc.
