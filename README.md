@@ -30,6 +30,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 * [**Programming**](Programming.md). Guides for various programming languages.
 * [**Reproducible Research**](Reproducible_Research.md). More to come...
 * [**Funding for Conferences, Training etc**](RD_Funding.md)
+* [**LinkedIn Learning**](https://www.ucl.ac.uk/isd/linkedin-learning). A huge range of video tutorials supporting learning in software, creative and business skills – all free to UCL staff and currently enrolled students.
 
 ## If Life Becomes Difficult
 
