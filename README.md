@@ -18,7 +18,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
     - **Research department graduate tutor** for Imaging Neuroscience is [John Ashburner](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTASH57).
 * UCL [**Research Assessment**](https://www.ucl.ac.uk/students/exams-and-assessments/research-assessments) explains the procedures and regulations you need to follow to make sure your research assessments go according to plan.
 * The UCL [**Academic Manual**](https://www.ucl.ac.uk/academic-manual/node/19) 2021-22 includes the academic regulations, policies and procedures applicable to all UCL taught and research students who are enrolled on the 2021-22 academic session.
-
+* [**Self-Plagiarism**](https://www.grad.ucl.ac.uk/essinfo/guidance-on-selfplagiarism/) guidance for UCL students.
 
 ## Researcher Development
 
