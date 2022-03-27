@@ -41,7 +41,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 ## Next steps
 
-* [**Funding Opportunities**](Funding.md). More to come...
+* [**Funding Opportunities**](Funding.md).
 
 
 ---
