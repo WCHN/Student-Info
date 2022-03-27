@@ -32,6 +32,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 * [**Reproducible Research**](Reproducible_Research.md). More to come...
 * [**Funding for Conferences, Training etc**](RD_Funding.md)
 * [**LinkedIn Learning**](https://www.ucl.ac.uk/isd/linkedin-learning). A huge range of video tutorials supporting learning in software, creative and business skills – all free to UCL staff and currently enrolled students.
+* [**UCL-Yale exchange programme**](https://www.grad.ucl.ac.uk/yale-ucl/) Exchange Scheme for doctoral students, giving UCL students the opportunity to undertake a period of research at Yale as part of their doctorate under the supervision of an identified Yale Supervisor
 
 ## If Life Becomes Difficult
 
