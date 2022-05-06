@@ -14,6 +14,10 @@ These are a few textbooks that may be useful to research students at the Wellcom
 * [**Deep Learning**](https://www.deeplearningbook.org/) [(unofficial link)](https://github.com/janishar/mit-deep-learning-book-pdf). Ian Goodfellow, Yoshua Bengio & Aaron Courville. MIT Press (2016).
 * [**Dive Into Deep Learning** (pdf)](https://arxiv.org/ftp/arxiv/papers/2106/2106.11342.pdf). Aston Zhang, Zachary C. Lipton, Mu Li, & Alexander J Smola. arXiv preprint arXiv:2106.11342 (2021).
 
+## Applications
+* [**Imaging-Genetics**](https://marcolorenzi.github.io/material/winter_school/Imaging_Genetics_Book_Chapter.pdf). Andre Altmann & Marco Lorenzi book chapter (2019).
+
+
 ## Other
 * [**Numerical Recipes in C**](http://www.nrbook.com/a/bookcpdf.php) (Second Edition). Brian P Flannery, William H Press, Saul A Teukolsky & William Vetterling. Cambridge University Press (1992).
 * [**The Matrix Cookbook** (pdf)](https://www.cs.toronto.edu/~bonner/courses/2018s/csc338/matrix_cookbook.pdf). Kaare Brandt Petersen, Michael Syskind Pedersen & others. Technical University of Denmark 7(15) (2008).
