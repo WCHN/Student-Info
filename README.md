@@ -22,7 +22,6 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 ## Researcher Development
 
-% * [**Workshops**](Workshops.md). Upcoming workshops for research students.
 * [**Textbooks**](Textbooks.md). A selection of textbooks that may be useful for research students.
 * [**Methods for Dummies**](https://www.fil.ion.ucl.ac.uk/mfd/). Learn about data analysis methods for MRI, MEG etc.
 * [**SPM Courses**](https://www.fil.ion.ucl.ac.uk/spm/course/). UCL students can sit in on the lectures.
