@@ -1,6 +1,6 @@
 ## Statistics Courses
 
-UCL are pleased to announce a new training programme developed to help doctoral students within the life and medical sciences faculties with training in basic statistics. This is therefore an online training platform for those needing to learn about quantitative research methods and statistics. This programme is set up in collaboration with the Centre for Applied Statistics Courses ([CASC](www.ucl.ac.uk/stats-courses)).
+UCL are pleased to announce a new training programme developed to help doctoral students within the life and medical sciences faculties with training in basic statistics. This is therefore an online training platform for those needing to learn about quantitative research methods and statistics. This programme is set up in collaboration with the Centre for Applied Statistics Courses ([CASC](https://www.ucl.ac.uk/stats-courses)).
 
 Modules include:
 
