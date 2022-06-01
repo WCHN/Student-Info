@@ -28,7 +28,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 * [**SPM Courses**](https://www.fil.ion.ucl.ac.uk/spm/course/). UCL students can sit in on the lectures.
 * [**Programming**](Programming.md). Guides for various programming languages.
 * [**Reproducible Research**](Reproducible_Research.md). More to come...
-* [**Funding for Conferences, Training etc**](RD_Funding.md)
+* [**Funding for Conferences, Training etc**](RD_Funding.md) and [**Booking Travel**](TravelBooking.md)
 * [**LinkedIn Learning**](https://www.ucl.ac.uk/isd/linkedin-learning). A huge range of video tutorials supporting learning in software, creative and business skills – all free to UCL staff and currently enrolled students.
 * [**UCL-Yale exchange programme**](https://www.grad.ucl.ac.uk/yale-ucl/) Exchange Scheme for doctoral students, giving UCL students the opportunity to undertake a period of research at Yale as part of their doctorate under the supervision of an identified Yale Supervisor
 
