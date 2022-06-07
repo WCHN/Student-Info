@@ -31,4 +31,6 @@
     - [**OverLeaf**](https://www.overleaf.com/). The easy to use, online, collaborative LaTeX editor.
     - [**UCL Thesis Template**](https://github.com/UCL/ucl-latex-thesis-templates).
         * [**OverLeaf**](https://www.overleaf.com/latex/templates/thesis-template-for-university-college-london/ndczhjnzxbyk) version of UCL Thesis Template. 
-    - [**Equation Editor**](https://latexeditor.lagrida.com/). For trying out equations.
+    - [**Equation Editor**](https://latexeditor.lagrida.com/) for trying out equations.
+* **Markdown**
+    - [**Stack Edit**](https://stackedit.io/app#) for interactive markdown editing.
