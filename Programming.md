@@ -34,3 +34,6 @@
     - [**Equation Editor**](https://latexeditor.lagrida.com/) for trying out equations.
 * **Markdown**
     - [**Stack Edit**](https://stackedit.io/app#) for interactive markdown editing.
+* **PDF**
+    - [**Sign-PDF**](https://www.adobe.com/acrobat/online/sign-pdf.html) allows signatures to be pasted into pdf documents.
+
