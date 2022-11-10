@@ -47,8 +47,8 @@
   - Supporting PGR Mental Health and Wellbeing
   - Supporting PGR Writing and Giving Effective Feedback
 
-
-
+---
+Page based on Tracy's slides from the IoN PhD Supervisor Training workshop.
 
 
 
