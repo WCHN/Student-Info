@@ -16,8 +16,14 @@
 
 ## Version Control
 
-* [**github** (pdf)](https://githubtraining.github.io/training-manual/book.pdf).
-* [**Subversion** (pdf)](https://svnbook.red-bean.com/en/1.7/svn-book.pdf). Currently used for SPM development. 
+* [**Git**](https://git-scm.com/)
+    - [**GitHub Desktop**](https://desktop.github.com/)
+    - [**Git for Windows**](https://gitforwindows.org/)
+    - [**TortoiseGit**](https://tortoisegit.org/)
+    - [**Git in Visual Studio Code**](https://code.visualstudio.com/docs/sourcecontrol/overview)
+    - [**Git in MATLAB**](https://www.mathworks.com/help/matlab/matlab_prog/use-git-in-matlab.html)
+* [**GitHub**](https://github.com/) and [**GitLab**](https://about.gitlab.com/)
+* [**Documentation** (pdf)](https://githubtraining.github.io/training-manual/book.pdf).
 
 
 ## File Formats
