@@ -1,6 +1,13 @@
 # Information for Research Students in Imaging Neuroscience
 Useful links for research students at the [**Wellcome Centre for Human Neuroimaging**](https://www.fil.ion.ucl.ac.uk/) and the [**Max Planck UCL Centre for Computational Psychiatry and Ageing Research**](https://www.mps-ucl-centre.mpg.de/). These two centres make up UCL's *Imaging Neuroscience* research department.
 
+### Institute of Neurology Information for PGR Students
+
+* [**Information for Research Students**](https://www.ucl.ac.uk/ion/study/postgraduate-research-degrees/information-current-pgr-students-staff/information-research) about the IoN Research Degree programme, starting from induction and enrolment to final exam and everything in between.
+* [**Information for Research Supervisors**](https://www.ucl.ac.uk/ion/study/postgraduate-research-degrees/information-current-pgr-students-staff/information-research-0)
+* [**Contacts, Regulations & Support**](https://www.ucl.ac.uk/ion/study/postgraduate-research-degrees/information-current-pgr-students-staff/contacts-regulations)
+* [**Research Degrees FAQ**](https://www.ucl.ac.uk/ion/research-degree-faqs)
+
 
 ## Pages you need
 
@@ -10,7 +17,6 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 ## Procedures & Processes
 
-* IoN [**Research Degrees FAQ**](https://www.ucl.ac.uk/ion/research-degree-faqs). Some procedures are specific to the Institute of Neurology (e.g. upgrades in IoN require two examiners, whereas official UCL guidelines require one examiner).
 * IoN [**Thesis Committee Guidelines**](https://www.ucl.ac.uk/ion/sites/ion/files/ion_tc_guidelines_july_2021_0.pdf). All newly enrolled students at the IoN are expected to form a thesis committee.
     - [**Forms**](https://www.ucl.ac.uk/ion/sites/ion/files/ion_tc_guidelines_july_2021_0.docx) (an MS Word version of the above pdf).
 * IoN [**Education Team**](https://www.ucl.ac.uk/ion/study/education-team-contacts).
