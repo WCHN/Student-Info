@@ -40,6 +40,7 @@ Useful links for research students at the [**Wellcome Centre for Human Neuroimag
 
 ## If Life Becomes Difficult
 
+* [**Student Triage and Referral Tool**](https://www.ucl.ac.uk/srs/student-triage-and-referral-tool). What to do when things go wrong.
 * [**Student Support and Wellbeing**](Support.md)
 * [**Mental Health Mentoring**](MentalHealthMentoring.md)
 * [**Covid-19**](https://www.ucl.ac.uk/coronavirus/). UCL information about Covid-19.
