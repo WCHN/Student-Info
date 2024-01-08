@@ -15,6 +15,8 @@ These are a few textbooks that may be useful to research students at the Wellcom
 ## Deep Learning
 * [**Deep Learning**](https://www.deeplearningbook.org/) [(unofficial link)](https://github.com/janishar/mit-deep-learning-book-pdf). Ian Goodfellow, Yoshua Bengio & Aaron Courville. MIT Press (2016).
 * [**Dive Into Deep Learning** (pdf)](https://arxiv.org/ftp/arxiv/papers/2106/2106.11342.pdf). Aston Zhang, Zachary C. Lipton, Mu Li, & Alexander J Smola. arXiv preprint arXiv:2106.11342 (2021).
+* [**Deep Learning: Foundations and Concepts**](https://issuu.com/cmb321/docs/deep_learning_ebook). Christopher M Bishop & Hugh Bishop. Springer. 2023.
+  
 
 ## Applications
 * [**Imaging-Genetics**](https://marcolorenzi.github.io/material/winter_school/Imaging_Genetics_Book_Chapter.pdf). Andre Altmann & Marco Lorenzi book chapter (2019).
